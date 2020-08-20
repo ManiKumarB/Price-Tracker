@@ -12,6 +12,7 @@ Create the table to store the registered users : python Table Creation.py(Stores
 
 # Second step
 To run the program : python run.py(For application accessing)
+To access application : http://localhost:8501/
 
 # Third step
 To schedule the program : python Schedule.py(Retrieve the db file and checks if any price drops)
