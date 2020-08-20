@@ -11,7 +11,7 @@ pip install -r requirements.txt
 Create the table to store the registered users : python Table Creation.py(Stores the subscribed users for sending alerts when price drops)
 
 # Second step
-To run the program : python run.py(For application accessing)
+To run the program : streamlit run run.py(For application accessing)
 To access application : http://localhost:8501/
 
 # Third step
