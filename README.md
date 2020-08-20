@@ -3,6 +3,7 @@
 
 This is a web application designed with python, selenium and streamlit framework.
 
+# Dependencies
 Install the dependencies using following command:
 pip install -r requirements.txt
 
