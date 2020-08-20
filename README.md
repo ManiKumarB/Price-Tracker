@@ -15,7 +15,7 @@ Create the table to store the registered users
 ```bash
 python Table Creation.py
 ```
-For storing subscribed users for sending alerts when price drops
+For storing subscribed users to send alerts when price drops
 
 ## Second step
 To run the program
