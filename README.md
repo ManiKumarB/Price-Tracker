@@ -8,20 +8,21 @@ Install the dependencies using following command:
 ```bash
 pip install -r requirements.txt
 ```
-
+Download [chromedriver](https://chromedriver.chromium.org/downloads)
 
 ## First step
 Create the table to store the registered users
 ```bash
 python Table Creation.py
 ```
-Stores the subscribed users for sending alerts when price drops
+For storing subscribed users for sending alerts when price drops
 
 ## Second step
 To run the program
 ```bash
 streamlit run run.py
 ```
+I am using SMTP gmail server for sending product details to user.
 To access application : http://localhost:8501/
 
 ## Third step
